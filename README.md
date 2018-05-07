@@ -1,5 +1,5 @@
 # AI-game
-Method:
+###Method:
 	For this simple AI, it can accomplish some simple tasks. For my Gaming AI,
 it is something that can play simple ball game. The main goal for the AI is
 just collecting the falling ball with the movable bar.
