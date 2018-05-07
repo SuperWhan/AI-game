@@ -1,5 +1,5 @@
 # AI-game
-# Method:
+Method:
 	For this simple AI, it can accomplish some simple tasks. For my Gaming AI,
 it is something that can play simple ball game. The main goal for the AI is
 just collecting the falling ball with the movable bar.
@@ -13,10 +13,10 @@ game with saying ”you loose the game”. Same to AI, if AI loose the game, the
 will show loosing signal ”AI loose the game”. After several games, I will collect
 the data from human’s performance and AI’s performance, with comparison,
 we can have a conclusion which only on behalf of the game performance.
-# Applied skills:
+Applied skills:
 	Programming design, project report, Algorithms, Python skills.
-# Knowledge:
+Knowledge:
 	learned from how to modified a game to a automatic play game, learned how to
 use pygame header. getting know with AI design by reading reasearch paper.
-# Hardest part:
+Hardest part:
 	Prediction Accuracy, prediction ball relocate.
